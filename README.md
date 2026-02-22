@@ -21,6 +21,10 @@ Project sử dụng STM32 để giao tiếp với module RFID thông qua việc 
 ├── README.md
 ```
 
+## Sơ đồ kết nối
+
+![Pinout](schematic/schematic.jpg)
+
 ## Video hướng dẫn cách sử dụng
 https://youtu.be/5bsbJDN3KpU?si=DEgDsyG6iGrEGf31
 
